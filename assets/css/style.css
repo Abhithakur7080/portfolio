@@ -163,12 +163,6 @@ img {
 .profile_buttons {
   column-gap: 1rem;
 }
-.about{
-  color: var(--text-color-light);
-  text-transform: italic;
-  margin-top: .5rem;
-  font-size: var(--small-font-size);
-}
 
 /* BUTTONS */
 .button {
